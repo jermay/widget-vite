@@ -1058,10 +1058,10 @@
     "@scure/base" "~1.1.6"
     micro-packed "~0.6.2"
 
-"@kimafinance/kima-transaction-widget@^1.2.51":
-  version "1.2.51"
-  resolved "https://registry.yarnpkg.com/@kimafinance/kima-transaction-widget/-/kima-transaction-widget-1.2.51.tgz#9074003f752e407209018879e97532cffa07680d"
-  integrity sha512-+nKtY3TEAe9q1eAFCZY/csBi8rQnghBFoFprvS5TGseruGeFzqncvkBDcXC9e8wyQ2S4GfwlcHqRC87cpXfu6Q==
+"@kimafinance/kima-transaction-widget@1.2.50-beta.1":
+  version "1.2.50-beta.1"
+  resolved "https://registry.yarnpkg.com/@kimafinance/kima-transaction-widget/-/kima-transaction-widget-1.2.50-beta.1.tgz#5f0a89a0d569b8b9b9eed40bba14dd6261d093bb"
+  integrity sha512-7U4fZZcgkVFwQ+JWVV7AlSYWSY/5VOG0mlgPZRGiE+4asGDMHC09t8kV1RRcfyeXKc6xYNPcBwauZv6OTIsXjg==
   dependencies:
     "@ethersproject/contracts" "^5.7.0"
     "@ethersproject/providers" "^5.7.2"
